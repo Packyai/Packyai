@@ -3,6 +3,9 @@
 <h2>Who are you?</h2>
 <p>I am a businessman, researcher, lecturer, and an author, who is now turning into a coder and a founder with PackyAI.</p>
 <hr />
+<h2>Where do you live?</h2>
+<p>Adelaide, Australia</p>
+<hr />
 <h2>How do we know you are who you say you are?</h2>
 <ul>
   <li><a href="https://www.linkedin.com/in/consultantvaibhav/">LinkedIn</a></li>
@@ -44,7 +47,7 @@
 <h2>Show an image of you coding.</h2>
 <p>I will have to first take a picture and upload it to the Github repository. I will do that once I have finished writing this page.</p>
 <h2>What will you learn tonight in Angela's class?</h2>
-<p>Tonight's topic is called Multi-page websites.</p>
+<p>Tonight's (26/06/2024) topic is called Multi-page websites.</p>
 <hr />
 <h2>When will you update this page next</h2>
 <p>I will update this page tomorrow</p>
