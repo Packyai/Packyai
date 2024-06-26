@@ -80,13 +80,13 @@
 <hr />
 <h2>What else do you love to do?</h2>
 <ul>
-  <li>Hiking: I hiked Mount Kilimanjaro, the highest point in East Africa at 5895 mts on January 25, 2024.</li>
+  <li>Hiking: I hiked Mount Kilimanjaro, the highest point in East Africa at 5895 mts on January 25, 2024. (will resize the photo to smaller version once I have learnt how to do that from Angela)</li>
     <ul>
-      <li>img of Kili</li>
+      <li><img src="https://github.com/Packyai/Packyai/blob/main/20240125_083953.jpg" alt="Photos of me on Kili's Top" /></li>
     </ul>
-  <li>Motorbiking: I cannot live without a motorbike. I feel free when cool wind touches my face.</li>
+  <li>Motorbiking: I cannot live without a motorbike. I feel free when cool wind touches my face. (Same as above for the photo resizing)</li>
     <ul>
-      <li>img of my bike</li>
+      <li><img src="https://github.com/Packyai/Packyai/blob/main/20240313_004621.jpg" alt="My XSR 900 motorbike" /></li>
     </ul>
 </ul>
 <hr />
